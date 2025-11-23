@@ -1,0 +1,338 @@
+[
+  {
+    "nome": "Super Mario World",
+    "descricao": "Clássico absoluto do SNES, apresentando Yoshi e fases memoráveis.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/06/Super-Mario-World.jpg",
+    "ano": 1990,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "The Legend of Zelda: A Link to the Past",
+    "descricao": "Um dos Zeldas mais importantes, com mundos paralelos e muitos segredos.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/31/The_Legenda_of_Zelda_A_Link_to_the_Past_capa.png",
+    "ano": 1991,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Super Metroid",
+    "descricao": "Atmosfera única e exploração que definiu o gênero Metroidvania.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/cb/Super_Metroid_capa.png",
+    "ano": 1994,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Donkey Kong Country",
+    "descricao": "Revolucionou os gráficos com sprites pré-renderizados.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/83/Donkey_Kong_Country_capa.png?20200520054129",
+    "ano": 1994,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "descricao": "Considerado por muitos o melhor da trilogia.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/00/Donkey_Kong_Country_2_capa.png?20200520061024",
+    "ano": 1995,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Donkey Kong Country 3: Dixie Kong's Double Trouble",
+    "descricao": "A última aventura da trilogia Donkey Kong no SNES.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Donkey_Kong_Country_3_capa.png?20200520150159",
+    "ano": 1996,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Super Mario Kart",
+    "descricao": "O início da icônica série de corrida da Nintendo.",
+    "imagem": "https://www.chaoticstupid.com/wp-content/uploads/2013/11/Cover-Art-Super-Mario-Kart-SNES.jpg",
+    "ano": 1992,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "F-Zero",
+    "descricao": "Corridas futuristas rápidas e emocionantes.",
+    "imagem": "https://ssb.wiki.gallery/images/6/65/F-Zero_box_art.png",
+    "ano": 1990,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Star Fox",
+    "descricao": "Primeiro jogo com o chip Super FX, trazendo gráficos 3D.",
+    "imagem": "https://emubox.net/resources/GAME/3413/xwRvzLjd.png",
+    "ano": 1993,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Super Mario RPG",
+    "descricao": "RPG criado pela Nintendo com a Square, muito querido pelos fãs.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/62/Super_Mario_RPG.png?20100917195907",
+    "ano": 1996,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Chrono Trigger",
+    "descricao": "Um dos RPGs mais amados da história, com múltiplos finais.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a7/Chrono_Trigger.jpg/330px-Chrono_Trigger.jpg",
+    "ano": 1995,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "Final Fantasy IV",
+    "descricao": "RPG clássico que marcou a geração com sua narrativa profunda.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/09/Final_Fantasy_VII_Remake_capa.png?20200416175937",
+    "ano": 1991,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "Final Fantasy V",
+    "descricao": "Sistema de jobs expansivo e gameplay estratégico.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/5a/Ffv_japanese.jpg?20160310033226",
+    "ano": 1992,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "Final Fantasy VI",
+    "descricao": "Amplamente considerado um dos melhores RPGs de todos os tempos.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/9/95/Ffvi_japanese.png?20160203194707",
+    "ano": 1994,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "Secret of Mana",
+    "descricao": "RPG de ação cooperativo e um clássico da Square.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/1/12/Capa_Secret_of_Mana.jpg?20160622235234",
+    "ano": 1993,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "EarthBound",
+    "descricao": "RPG humorístico e cult com estilo único.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/38/EarthBound_capa.png?20181105041524",
+    "ano": 1994,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Super Mario All-Stars",
+    "descricao": "Coletânea remasterizada dos primeiros Marios.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/7/74/Super_Mario_All_Stars.jpg?20100914035336",
+    "ano": 1993,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Kirby Super Star",
+    "descricao": "8 jogos em 1, um dos maiores sucessos da série Kirby.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Kirby_Super_Star_Coverart.png/250px-Kirby_Super_Star_Coverart.png",
+    "ano": 1996,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Kirby's Dream Course",
+    "descricao": "Uma mistura divertida de golfe com o universo Kirby.",
+    "imagem": "https://cdn.wikirby.com/thumb/d/dc/KDC_Cover.png/800px-KDC_Cover.png",
+    "ano": 1994,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Mega Man X",
+    "descricao": "Reinvenção moderna da franquia Mega Man.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/d/d9/Capa_Mega_Man_X.png?20130627043504",
+    "ano": 1993,
+    "link": "https://www.capcom.com/"
+  },
+  {
+    "nome": "Mega Man X2",
+    "descricao": "Continuação com novos bosses e mecânicas.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e0/Capa_Mega_Man_X2.jpg?20130701213716",
+    "ano": 1994,
+    "link": "https://www.capcom.com/"
+  },
+  {
+    "nome": "Mega Man X3",
+    "descricao": "Fechando a trilogia X no SNES.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/d/d8/Capa_Mega_Man_X3.jpg?20130712044824",
+    "ano": 1995,
+    "link": "https://www.capcom.com/"
+  },
+  {
+    "nome": "Street Fighter II",
+    "descricao": "Revolucionou os jogos de luta.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/06/Street_fighter_II_cover_SNES.jpg/250px-Street_fighter_II_cover_SNES.jpg",
+    "ano": 1991,
+    "link": "https://www.capcom.com/"
+  },
+  {
+    "nome": "Street Fighter II Turbo",
+    "descricao": "Versão aprimorada, mais rápida e competitiva.",
+    "imagem": "https://snesplay.com/wp-content/uploads/2023/06/Street-Fighter-II-Turbo-Play-Online-with-Console-Emulators-600x329.png",
+    "ano": 1992,
+    "link": "https://www.capcom.com/"
+  },
+  {
+    "nome": "Super Street Fighter II",
+    "descricao": "Mais personagens e movimentos especiais.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/SSF2_US_flyer.png/250px-SSF2_US_flyer.png",
+    "ano": 1993,
+    "link": "https://www.capcom.com/"
+  },
+  {
+    "nome": "Mortal Kombat",
+    "descricao": "O controverso jogo de luta chegou ao SNES com censuras.",
+    "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZoPWQzKVLg5ckMHRDtc_RR3UWFrNWFZh8WDfMNDPH2SZni8jklQcDiY4nMpBbPqGPOBCTAXiCXDfEXkRTpi7GB8AQd7hL1TjcjS7aIvEtqDbHtog9Wi14H7cqOFSZeyqhDFFvOhzzw5Q5D6ItHmDZK3dheSpJHr5xiWQhOBeHqQf82Adp08Cv9nD8i_w/w640-h444-rw/00.MK-capa.jpg",
+    "ano": 1992,
+    "link": "https://www.warnerbros.com/"
+  },
+  {
+    "nome": "Mortal Kombat II",
+    "descricao": "Considerado o melhor da trilogia clássica.",
+    "imagem": "https://i.pinimg.com/736x/be/94/7c/be947c6220de2a90e28ab8129816c80f.jpg",
+    "ano": 1993,
+    "link": "https://www.warnerbros.com/"
+  },
+  {
+    "nome": "Mortal Kombat 3",
+    "descricao": "Mais personagens, combos e velocidade.",
+    "imagem": "https://i.pinimg.com/736x/65/03/d0/6503d06d00c1da32d7d71effed640bf3.jpg",
+    "ano": 1995,
+    "link": "https://www.warnerbros.com/"
+  },
+  {
+    "nome": "NBA Jam",
+    "descricao": "Frenético e exagerado — um clássico das quadras.",
+    "imagem": "https://images.launchbox-app.com/e4a3ba3c-17d1-4b94-8ed9-15494856f08a.png",
+    "ano": 1993,
+    "link": "https://www.ea.com/"
+  },
+  {
+    "nome": "TMNT: Turtles in Time",
+    "descricao": "Um dos melhores beat 'em ups do SNES.",
+    "imagem": "https://i.pinimg.com/736x/55/03/b7/5503b72a7653575ade214be7c8068f0f.jpg",
+    "ano": 1991,
+    "link": "https://www.konami.com/"
+  },
+  {
+    "nome": "Contra III: The Alien Wars",
+    "descricao": "Ação intensa e explosiva da série Contra.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/b/b1/Contra_III_game_cover.png",
+    "ano": 1992,
+    "link": "https://www.konami.com/"
+  },
+  {
+    "nome": "Super Castlevania IV",
+    "descricao": "Clássico da franquia Castlevania com trilha memorável.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/c/c2/Super_Castlevania_IV_North_American_SNES_box_art.png",
+    "ano": 1991,
+    "link": "https://www.konami.com/"
+  },
+  {
+    "nome": "Pilotwings",
+    "descricao": "Demonstração técnica do Mode 7 com desafios de voo.",
+    "imagem": "https://www.retrogames.cz/games/898/obal_SNES.gif",
+    "ano": 1990,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "ActRaiser",
+    "descricao": "Mistura ação e simulação em um jogo único para a época.",
+    "imagem": "https://images.launchbox-app.com/4383a7c2-46b5-4d20-a2b8-54c07bc18f65.jpg",
+    "ano": 1990,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "Star Ocean",
+    "descricao": "RPG famoso por seu sistema de combate e inovação técnica.",
+    "imagem": "https://images.launchbox-app.com/69fa4809-f08b-442f-b896-880faea8ec30.png",
+    "ano": 1996,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "Illusion of Gaia",
+    "descricao": "RPG de ação amado por sua história envolvente.",
+    "imagem": "https://quartagaveta.com.br/wp-content/uploads/2024/12/capa-1024x712.jpg",
+    "ano": 1993,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "Super Punch-Out!!",
+    "descricao": "Continuação da clássica série de boxe.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/ru/thumb/f/fe/Super_Punch-Out_SNES_cover.png/960px-Super_Punch-Out_SNES_cover.png?20250223023517",
+    "ano": 1994,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Yoshi's Island",
+    "descricao": "Gráficos estilizados e gameplay inovador com Baby Mario.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Yoshi%27s_Island_%28Super_Mario_World_2%29_box_art.jpg/250px-Yoshi%27s_Island_%28Super_Mario_World_2%29_box_art.jpg",
+    "ano": 1995,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Terranigma",
+    "descricao": "Um dos RPGs mais cultuados do SNES.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/SNES_Terranigma_cover_art.jpg/250px-SNES_Terranigma_cover_art.jpg",
+    "ano": 1995,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "Bahamut Lagoon",
+    "descricao": "Estrategia e RPG misturados em batalhas épicas.",
+    "imagem": "https://images.launchbox-app.com/r2_2aea59df-3964-4410-83ae-3d9f2b667f7e.png",
+    "ano": 1996,
+    "link": "https://www.square-enix-games.com/"
+  },
+  {
+    "nome": "Breath of Fire",
+    "descricao": "RPG clássico com transformações de dragão.",
+    "imagem": "https://yokoshimomura.com/wp-content/uploads/1993/04/breath-of-fire-min.png",
+    "ano": 1993,
+    "link": "https://www.capcom.com/"
+  },
+  {
+    "nome": "Breath of Fire II",
+    "descricao": "Continuação com narrativa mais profunda.",
+    "imagem": "https://images.launchbox-app.com/793f8c72-4c0e-4c90-bc6e-4de8db16e553.png",
+    "ano": 1994,
+    "link": "https://www.capcom.com/"
+  },
+  {
+    "nome": "Lufia II: Rise of the Sinistrals",
+    "descricao": "RPG extremamente amado por seus puzzles.",
+    "imagem": "https://emubox.net/resources/GAME/488/BBQoiSSc.png",
+    "ano": 1995,
+    "link": "https://www.nintendo.com/"
+  },
+  {
+    "nome": "Super Ghouls 'n Ghosts",
+    "descricao": "Difícil, desafiador e lendário.",
+    "imagem": "https://images.launchbox-app.com/3fdd4c06-94b2-4966-b613-17f0acd86232.jpg",
+    "ano": 1991,
+    "link": "https://www.capcom.com/"
+  },
+  {
+    "nome": "Harvest Moon",
+    "descricao": "O início da famosa franquia de fazendinha.",
+    "imagem": "https://emubox.net/resources/GAME/3501/4rvATTnx.png",
+    "ano": 1996,
+    "link": "https://www.natsume.com/"
+  },
+  {
+    "nome": "Killer Instinct",
+    "descricao": "Jogo de luta com combos longos e gráficos impressionantes.",
+    "imagem": "https://emubox.net/resources/GAME/123/00LCWZZS.png",
+    "ano": 1994,
+    "link": "https://www.raregames.com/"
+  },
+  {
+    "nome": "Super Bomberman",
+    "descricao": "Clássico multiplayer explosivo do SNES.",
+    "imagem": "https://emubox.net/resources/GAME/625/LgRRcnbH.png",
+    "ano": 1993,
+    "link": "https://www.konami.com/"
+  },
+  {
+    "nome": "Super Bomberman 2",
+    "descricao": "Sequência ainda mais polida e divertida.",
+    "imagem": "https://upload.wikimedia.org/wikipedia/en/4/41/SNES_Super_Bomberman_2_cover_art.jpg",
+    "ano": 1994,
+    "link": "https://www.konami.com/"
+  }
+]
